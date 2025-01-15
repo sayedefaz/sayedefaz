@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayeed Ahmed Efaj</h1>
-<h3 align="center">A passionate Backend developer from UK</h3>
+<h3 align="center">I am passionate about Software Engineer and Still learning from my own interest</h3>
 
 - 🔭 I’m currently working on **Airport Management System**
 
